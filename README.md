@@ -1,3 +1,5 @@
+🕰️ Project originally started in early 2025 and maintained locally until today before being uploaded to GitHub.
+
 # Supervised-and-Preference-Fine-Tuning
 
 Fine-tuning TinyLlama, a lightweight open-source language model, for instruction-following and alignment using both Supervised Fine-Tuning (SFT) and Preference Fine-Tuning (PFT) techniques.
